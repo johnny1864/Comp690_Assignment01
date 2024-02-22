@@ -102,6 +102,47 @@ let name = prompt("Please enter your name");
 
 let course = prompt("What class are you taking");
 
+// STEP 17
 
+let x = 10;
+let y = 20;
 
+console.log(x + y);
+
+// STEP 18
+
+let x = 20;
+x += 20;
+
+console.log(x);
+
+// STEP 19
+
+let x = 20;
+x *= 5;
+
+console.log(x);
+
+// STEP 20
+
+let x = 20 % 3;
+x /= 1;
+
+console.log(x);
+
+// STEP 21
+
+let num = 20;
+
+if (num > 10 && num < 25) {
+    console.log(num);
+}
+
+// STEP 22
+
+let name = "Bob";
+
+if (name == "Robert" || name == "Steve") {
+    console.log(num);
+}
 
